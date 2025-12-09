@@ -1,0 +1,21 @@
+body{
+    font-family: "Comic Sans MS";
+    background-color: bisque;
+}
+
+h1{
+    font-family:"Comic Sans MS"
+}
+
+.customFont{
+    font-family:"Comic Sans MS"!important;
+}
+
+h2{
+    color: dimgray;
+    background-color: antiquewhite;
+}
+
+.tableauPlaceholder{
+    
+}
